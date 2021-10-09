@@ -1,0 +1,236 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100;1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@500&display=swap');
+
+body{
+    margin: 0;
+}
+
+/* Start of header section*/
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937 ;
+    color: white;
+    font-family: 'extra-bold', sans-serif;
+}
+
+h1{
+    font-size: 28px;
+    padding-left: 10px;
+    font-family: 'extra-bold', sans-serif;
+}
+
+li{
+    display: inline;
+    padding: 5px;
+    font-size: 18px;
+    
+}
+
+ul{
+    padding-right: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/* End of header section  */
+
+/* Start of This website is awesome section */
+
+.thisw{
+    display: flex;
+    justify-content: center;
+    gap : 30px;
+    background-color: #1F2937;
+    align-items: center;
+    height: 400px;
+}
+
+.containerth{
+    margin-bottom: 20px;
+    color: white;
+    font-family: 'extra-bold', sans-serif;
+}
+h2{
+    font-size: 48px;
+    
+}
+
+p{
+    font-size: 18px;
+    
+}
+
+.imgcont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    height: 200px;
+    width: 400px;
+   
+}
+
+button{
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(12, 125, 190);
+    border: none;
+   
+}
+
+
+
+/* End of This website is awesome section  */
+
+/* Start of random info section */
+
+.someR{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    
+}
+
+.tR{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    font-family: 'extra-bold', sans-serif;
+}
+
+.fsp p{
+    font-size: 15px;
+    color: #1F2937;;
+    font-family: 'Roboto';
+    font-weight: 600;
+    display : flex;
+    justify-content: center;
+}
+
+.squareR{
+    display: flex;
+    gap: 30px;
+    padding-bottom: 50px ;
+}
+
+.fs{
+    height: 120px;
+    width: 120px;
+    border: solid;
+    border-color: rgb(0, 102, 255);
+    border-radius: 10%;
+}
+
+.listInfo{
+    display: flex;
+}
+
+/* End of random info section  */
+
+/* Start of quote section  */
+
+.quoteThor{
+    background-color: #E5E7EB;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote{  
+    font-style: italic;
+   font-family:'Roboto';
+   font-size: 36px;
+   color: #1F2937;
+   
+}
+
+.signature{
+    
+    font-weight: bold;
+    color: #1F2937;
+   align-self: flex-end ;
+}
+
+
+/* End of quote section */
+
+/* Start of call to action section */
+
+.callToAction{
+    padding: 50px;
+
+
+
+}
+
+.borderCall{
+    
+    padding: 30px 120px 10px 120px;
+    display: flex;
+    background-color:#3882F6;
+    gap:20px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.left-text{
+    color: white;
+    
+}
+
+.bSignCall{
+   
+    padding:5px 30px 5px 30px;
+    border:2px solid white;
+    flex-shrink: 0;
+    margin-top: -15px ;
+    margin-left: 75px;
+    background-color:#3882F6;
+}
+
+
+.callToTitle{
+    padding: 0px;
+    
+    margin-top: -10px
+}
+
+.pCallTo{
+    margin-top: -20px;
+    padding: 0px;
+    font-size: 15px;
+    
+}
+/* End of call to action section */
+
+/* Start of Footer section */
+
+.footer {
+   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    
+  }
+
+  .footer p{
+    font-size: 11px;
+  }
+
+/*End of Footer section */
