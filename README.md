@@ -2,6 +2,8 @@
 
 This is the project from PROJECT: LANDING PAGE of The Odin project. 
 
+The purpose of this project was to make a Landing page to practice using html/css
+
 Images used : 
 Okinawa photo : Spacy Goody (Pexels)
 Kyoto photo : Satoshi Hirayama (Pexels)
