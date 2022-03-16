@@ -1,6 +1,6 @@
 # TOP-Landingpage
 
-This is the project from PROJECT: LANDING PAGE of The Odin project. 
+This is the project for PROJECT: LANDING PAGE of The Odin project. 
 
 The purpose of this project was to make a Landing page to practice using html/css
 
